@@ -1,0 +1,33 @@
+_repo: Proverb-Lorefrom-many-sources_34176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hulme, F. Edward (Frederick Edward)
+    aliases:
+    - Hulme, F. E. (Frederick Edward)
+    - Hulme, Frederick Edward
+    - Hulme, Edward
+    birthdate: 1841
+    deathdate: 1909
+    gutenberg_agent_id: '36841'
+    url: http://www.gutenberg.org/2009/agents/36841
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Edward_Hulme
+description: ''
+gutenberg_issued: '2010-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34176'
+  lccn: 03002185
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Proverbs -- History and criticism'
+- !lcc 'PN'
+title: "Proverb Lore\r\nMany sayings, wise or otherwise, on many subjects, gleaned\
+  \ from many sources"
+url: http://www.gutenberg.org/ebooks/34176
